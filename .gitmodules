@@ -1,0 +1,3 @@
+[submodule "CostAccountingServer"]
+	path = CostAccountingServer
+	url = https://github.com/PockusaevAndrey/CostAccountingServer
